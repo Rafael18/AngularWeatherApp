@@ -8,7 +8,7 @@ export interface WeatherDatas {
       id: number;
       main: string;
       description: string;
-      icon: string
+      icon: string;
     }
   ];
 
